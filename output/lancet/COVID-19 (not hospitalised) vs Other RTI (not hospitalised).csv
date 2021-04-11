@@ -1,0 +1,23 @@
+Disorder,COVID-19 (not hospitalised),Other RTI (not hospitalised),Difference,CHI Squared,P,df
+Mood/Anxiety/Psychotic disorder (any),23.85%,20.95%,2.9%,202.9784,4.6763e-46,1
+Mood/Anxiety/Psychotic disorder (first),8.31%,6.08%,2.23%,147.2535,6.9074e-34,1
+Mood disorder (any),13.28%,11.14%,2.14%,159.9723,1.1474e-36,1
+Anxiety disorder (any),17.64%,15.73%,1.91%,123.6918,9.8402e-29,1
+Anxiety disorder (first),6.91%,5.21%,1.7%,124.4225,6.8086e-29,1
+Mood disorder (first),3.97%,2.82%,1.15%,70.3833,4.883e-17,1
+Insomnia (any),5.3%,4.53%,0.77%,37.8691,7.5655e-10,1
+Insomnia (first),2.31%,1.58%,0.73%,81.8071,1.5004e-19,1
+Nerve/nerve root/plexus disorders,2.71%,2.11%,0.6%,30.8444,2.7956e-8,1
+Substance misuse (any),5.94%,5.41%,0.53%,22.1974,2.46e-6,1
+Ischaemic stroke (any),1.37%,0.85%,0.52%,83.9451,5.0872e-20,1
+Psychotic disorder (any),0.94%,0.63%,0.31%,35.4768,2.581e-9,1
+Ischaemic stroke (first),0.44%,0.24%,0.2%,25.4394,4.5649e-7,1
+Dementia,0.36%,0.17%,0.19%,33.957,5.6345e-9,1
+Intracranial haemorrhage (any),0.32%,0.19%,0.13%,8.5576,0.0034,1
+Psychotic disorder (first),0.26%,0.16%,0.1%,9.9779,0.0016,1
+Myoneural junction/muscle disease,0.17%,0.07%,0.1%,34.6083,4.0319e-9,1
+Intracranial haemorrhage (first),0.14%,0.07%,0.07%,6.5927,0.0102,1
+Encephalitis,0.05%,0.02%,0.03%,8.0402,0.0046,1
+Parkinsonism,0.08%,0.05%,0.03%,0.6504,0.42,1
+Guillain-Barre syndrome,0.05%,0.03%,0.02%,2.6629,0.1027,1
+Substance misuse (first),1.75%,1.84%,-0.09%,6.1311,0.0133,1

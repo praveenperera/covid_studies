@@ -1,0 +1,23 @@
+Disorder,COVID-19 (ITU admission),COVID-19 (no ITU admission),Difference,CHI Squared,P,df
+Mood/Anxiety/Psychotic disorder (first),12.68%,6.62%,6.06%,73.8417,8.4641e-18,1
+Anxiety disorder (first),9.79%,4.93%,4.86%,64.1744,1.1388e-15,1
+Mood/Anxiety/Psychotic disorder (any),27.79%,22.98%,4.81%,53.1307,3.1208e-13,1
+Anxiety disorder (any),19.16%,15.41%,3.75%,43.6781,3.8708e-11,1
+Myoneural junction/muscle disease,3.35%,0.25%,3.1%,94.6217,2.3047e-22,1
+Mood disorder (first),5.83%,2.74%,3.09%,27.4927,1.5769e-7,1
+Ischaemic stroke (any),6.92%,4.13%,2.79%,55.4212,9.7283e-14,1
+Substance misuse (any),10.14%,7.68%,2.46%,48.698,2.9857e-12,1
+Intracranial haemorrhage (any),2.66%,0.7%,1.96%,79.3606,5.1749e-19,1
+Ischaemic stroke (first),2.82%,0.93%,1.89%,44.1877,2.9835e-11,1
+Insomnia (first),4.25%,2.48%,1.77%,20.9365,4.7475e-6,1
+Insomnia (any),7.51%,5.89%,1.62%,15.3915,0.0001,1
+Substance misuse (first),3.15%,1.71%,1.44%,32.5637,1.1535e-8,1
+Mood disorder (any),15.44%,14.47%,0.97%,6.5516,0.0105,1
+Intracranial haemorrhage (first),1.05%,0.33%,0.72%,26.6237,2.472e-7,1
+Dementia,1.74%,1.03%,0.71%,5.5851,0.0181,1
+Psychotic disorder (any),2.77%,2.16%,0.61%,8.9086,0.0028,1
+Nerve/nerve root/plexus disorders,4.25%,3.92%,0.33%,1.5576,0.212,1
+Guillain-Barre syndrome,0.33%,0.03%,0.3%,11.3986,0.0007,1
+Parkinsonism,0.26%,0.07%,0.19%,5.0917,0.024,1
+Encephalitis,0.35%,0.19%,0.16%,1.5054,0.2198,1
+Psychotic disorder (first),0.7%,0.57%,0.13%,3.2335,0.0721,1

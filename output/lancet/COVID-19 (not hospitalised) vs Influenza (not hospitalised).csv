@@ -1,0 +1,23 @@
+Disorder,COVID-19 (not hospitalised),Influenza (not hospitalised),Difference,CHI Squared,P,df
+Mood/Anxiety/Psychotic disorder (any),27.22%,19.42%,7.8%,697.4266,1.0847e-153,1
+Anxiety disorder (any),20.81%,14.82%,5.99%,515.3963,4.2476e-114,1
+Mood disorder (any),15.45%,10.66%,4.79%,383.6465,2.0001e-85,1
+Mood/Anxiety/Psychotic disorder (first),9.22%,5.28%,3.94%,269.3114,1.6032e-60,1
+Anxiety disorder (first),7.73%,4.6%,3.13%,235.6214,3.5439e-53,1
+Insomnia (any),5.69%,3.72%,1.97%,140.4852,2.085e-32,1
+Mood disorder (first),4.41%,2.55%,1.86%,133.8285,5.9566e-31,1
+Substance misuse (any),7.33%,6.03%,1.3%,67.4713,2.1378e-16,1
+Insomnia (first),2.54%,1.27%,1.27%,136.3938,1.6363e-31,1
+Nerve/nerve root/plexus disorders,2.77%,1.65%,1.12%,101.64,6.6588e-24,1
+Ischaemic stroke (any),1.14%,0.65%,0.49%,58.4554,2.0795e-14,1
+Psychotic disorder (any),0.96%,0.47%,0.49%,60.7839,6.3696e-15,1
+Substance misuse (first),1.76%,1.41%,0.35%,7.7298,0.0054,1
+Psychotic disorder (first),0.24%,0.11%,0.13%,20.4164,6.2295e-6,1
+Ischaemic stroke (first),0.32%,0.19%,0.13%,13.0002,0.0003,1
+Myoneural junction/muscle disease,0.15%,0.05%,0.1%,27.835,1.3211e-7,1
+Dementia,0.18%,0.11%,0.07%,11.2504,0.0008,1
+Intracranial haemorrhage (any),0.16%,0.1%,0.06%,10.313,0.0013,1
+Encephalitis,0.05%,0.02%,0.03%,2.7835,0.0952,1
+Parkinsonism,0.06%,0.03%,0.03%,4.8456,0.0277,1
+Intracranial haemorrhage (first),0.08%,0.05%,0.03%,3.0278,0.0818,1
+Guillain-Barre syndrome,0.05%,0.03%,0.02%,0.0002,0.988,1
